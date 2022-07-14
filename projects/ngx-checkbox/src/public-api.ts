@@ -5,3 +5,4 @@
 export * from './lib/ngx-checkbox.service';
 export * from './lib/ngx-checkbox.component';
 export * from './lib/ngx-checkbox.module';
+export * from './lib/ngx-checkbox.directive';

@@ -1,16 +1,19 @@
 import { NgModule } from '@angular/core';
 import { NgxCheckboxComponent } from './ngx-checkbox.component';
+import { NgxCheckboxDirective } from './ngx-checkbox.directive';
 
 
 
 @NgModule({
   declarations: [
-    NgxCheckboxComponent
+    NgxCheckboxComponent,
+    NgxCheckboxDirective
   ],
   imports: [
   ],
   exports: [
-    NgxCheckboxComponent
+    NgxCheckboxComponent,
+    NgxCheckboxDirective
   ]
 })
 export class NgxCheckboxModule { }
