@@ -1,11 +1,30 @@
 {
-  "name": "ngx-checkbox",
+  "name": "@i24/ngx-checkbox",
   "version": "0.0.1",
+  "description": "A lightweight plugin to display a modern checkbox.",
+  "author": {
+    "name": "YASEEN ALREFAEE",
+    "email": "yaseen@icode24.com",
+    "url": "https://icode24.com/"
+  },
+  "homepage": "https://github.com/yasref/ngx-checkbox-lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yasref/ngx-checkbox-lib"
+  },
   "peerDependencies": {
     "@angular/common": "^14.0.0",
     "@angular/core": "^14.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
-  }
+  },
+  "license": "MIT",
+  "keywords": [
+    "ngx",
+    "checkbox",
+    "angular",
+    "icode24",
+    "i24"
+  ]
 }
