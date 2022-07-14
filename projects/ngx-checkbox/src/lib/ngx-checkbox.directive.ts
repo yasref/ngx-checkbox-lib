@@ -6,7 +6,7 @@ import { Directive, ElementRef, Input, Renderer2 } from '@angular/core';
 export class NgxCheckboxDirective {
   @Input() color = '#3c3c3c';
   @Input() backColor = '#fff';
-  @Input() borderColor = '#ffffff33';
+  @Input() borderColor = '#c6c6c6';
   @Input() shadow = '0px 0px 4px 1px #6c6c6c';
 
   @Input() cWidth = '20px';
