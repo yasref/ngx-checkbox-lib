@@ -1,6 +1,6 @@
 # NgxCheckboxLib
-[![](https://img.shields.io/npm/v/ngx-i24-checkbox)](https://img.shields.io/npm/v/ngx-i24-checkbox)
-[![](https://img.shields.io/npm/l/ngx-i24-checkbox)](https://img.shields.io/npm/l/ngx-i24-checkbox)
+[![](https://img.shields.io/npm/v/ngx-i24-checkbox)](https://www.npmjs.com/package/ngx-i24-checkbox)
+[![](https://img.shields.io/npm/l/ngx-i24-checkbox)](https://www.npmjs.com/package/ngx-i24-checkbox)
 
 > A lightweight plugin to display a modern checkbox.
  
