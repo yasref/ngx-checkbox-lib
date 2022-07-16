@@ -1,6 +1,6 @@
 # NgxCheckboxLib
-[![](https://img.shields.io/npm/v/@i24/ngx-checkbox)](https://img.shields.io/npm/v/@i24/ngx-checkbox)
-[![](https://img.shields.io/npm/l/@i24/ngx-checkbox)](https://img.shields.io/npm/l/@i24/ngx-checkbox)
+[![](https://img.shields.io/npm/v/ngx-i24-checkbox)](https://img.shields.io/npm/v/ngx-i24-checkbox)
+[![](https://img.shields.io/npm/l/ngx-i24-checkbox)](https://img.shields.io/npm/l/ngx-i24-checkbox)
 
 > A lightweight plugin to display a modern checkbox.
  
@@ -13,13 +13,13 @@
 ## Get started
 #### Installation
 ```
-$ npm i @i24/ngx-checkbox
+$ npm i ngx-i24-checkbox
 ```
 #### Example
 ##### TS
 ###### Module
 ```typescript 
-import { NgxCheckboxModule } from '@i24/ngx-checkbox';
+import { NgxCheckboxModule } from 'ngx-i24-checkbox';
 @NgModule({
   declarations: [ AppComponent ],
   imports: [BrowserModule, NgxCheckboxModule ],
@@ -62,13 +62,7 @@ export class AppComponent {
 | checkWidth| '6px' | The width of the checkbox signal |
 | checkHeight| '10px' | The height of the checkbox signal |
 | value | true | The default value |
-  
-  
- 
-
-  @Input() value = true;
-  @Output() checkedChanged = new EventEmitter<any>();
-
+   
 
 ## Events
 * `checkedChanged` - triggered on change the value

@@ -1,6 +1,6 @@
 {
-  "name": "@i24/ngx-checkbox",
-  "version": "0.0.1",
+  "name": "ngx-i24-checkbox",
+  "version": "0.0.2",
   "description": "A lightweight plugin to display a modern checkbox.",
   "author": {
     "name": "YASEEN ALREFAEE",
